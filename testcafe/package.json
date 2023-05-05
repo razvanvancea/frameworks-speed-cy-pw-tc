@@ -1,0 +1,16 @@
+{
+  "name": "frameworks-speed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/testcafe chrome:headless tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "npx": "^10.2.2",
+    "testcafe": "^2.5.0"
+  }
+}

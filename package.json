@@ -1,0 +1,17 @@
+{
+  "name": "frameworks-speed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.10.0",
+    "npx": "^10.2.2",
+    "testcafe": "^2.5.0"
+  }
+}

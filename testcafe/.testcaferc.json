@@ -1,0 +1,11 @@
+{
+  //"screenshotPath": "./screenshots",
+  //"screenshotPathPattern": "${DATE}_${TIME}/${FIXTURE}.png",
+  "skipJsErrors": true,
+  "disablePageCaching": false,
+  // "quarantineMode": true,
+  "pageLoadTimeout": 15000,
+  "assertionTimeout": 15000,
+  "selectorTimeout": 15000,
+  "concurrency": 1,
+}
