@@ -14,12 +14,12 @@
 // ***********************************************************
 
 // Import commands.js using ES2015 syntax:
-import './commands'
+import "./commands";
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
 
 beforeEach(() => {
-  cy.on('uncaught:exception', (err, runnable) => false)
-    cy.visit('http://localhost:9080');
-})
+  cy.on("uncaught:exception", (err, runnable) => false);
+  cy.visit("http://localhost:9080");
+});
